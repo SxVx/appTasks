@@ -1,8 +1,8 @@
 
 
-**
-## Crud-express-mongo
-**
+
+## **Crud-express-mongo**
+
 
 Es una aplicación simple de crud simple solo para añadir y eliminar un elemento.
 Contiene solo una vista de usuario para su uso, su dirección por defecto es "/" siendo el index del aplicativo
@@ -27,7 +27,7 @@ Dependencias de desarrollo
 ## Estructura de carpetas
 
  - **src** : contiene nuestra aplicación
- - **libs** : contiene el script para la conexión  con la base de datos mongodb, para usar el script de conexion necesita configuracion de usario y contraseña hacia el servidor de la base de datos de mongo
+ - **libs** : contiene el script para la conexión  con la base de datos mongodb, para **usar** el script de conexion necesita **configuracion de usario y contraseña** hacia el servidor de la base de datos de mongo
  - **routes** : contiene script de manejo de uri
  - **model** : contiene los schemas que son representaciones abstractas de nuestros documentos mongodb
  - **views** : carpeta que contiene las paginas que se visualizaran en nuestra aplicación web, son ficheros  del motor de plantillas ejs
